@@ -1,0 +1,71 @@
+.navbar-custom {
+    background-color:rgb(253, 58, 115);
+    font-family:'Montserrat';
+    font-weight: bolder;
+}
+
+.container{
+    background-color:rgb(253, 58, 115);
+}
+
+.marketing{
+    background-color: #fff;
+}
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.app-btn{
+    width: 45%;
+    max-width: 160px;
+    color: #fff;
+    margin: 20px 10px;
+    text-align: left;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: "Lucida Grande", sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+}
+
+.blu{
+    background-color: #101010;
+    transition: background-color 0.25s linear;
+}
+
+i{
+    width: 20%;
+    text-align: center;
+    font-size: 28px;
+    margin-right: 7px;
+}
+
+.big-txt {
+    font-size: 17px;
+    text-transform: capitalize;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 20%;
+    width: 50%;
+}
+
+.carousel-caption p{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.carousel{
+    background-color:rgb(253, 58, 115);
+    height: 75vh;
+}
+
+.footer{
+    font-weight: bold;
+    color: #101010;
+}
